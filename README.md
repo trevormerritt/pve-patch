@@ -2,7 +2,10 @@
 
 Removes subscription dialogs, replaces enterprise repository with non-subscription repository and replaces branding. Tested on PVE 6.0-7.
 
-*Note: I'm not using Proxmox VE anymore. Please submit a PR if you'd like to have it updated for later versions.* 🤗
+* This is just a copy of the original repo with my username in place of kosomonavtika's.  
+
+This isn't to steal credit, its to have control over the repo source.  
+If the source repo has 'bad stuff' added, I have a chance to look at it before it kills my machines.  :)
 
 ## Note
 
@@ -15,10 +18,10 @@ Use at your own risk! Read the script before you run it.
 
 ```bash
 # if root
-wget -qO - https://raw.githubusercontent.com/kosmonavtika/pve-patch/master/patch.sh | bash
+wget -qO - https://raw.githubusercontent.com/trevormerritt/pve-patch/master/patch.sh | bash
 
 # if non-root
-wget -qO - https://raw.githubusercontent.com/kosmonavtika/pve-patch/master/patch.sh | sudo bash
+wget -qO - https://raw.githubusercontent.com/trevormerritt/pve-patch/master/patch.sh | sudo bash
 ```
 
 ## Restore

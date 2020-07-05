@@ -4,6 +4,7 @@ Removes subscription dialogs, replaces enterprise repository with non-subscripti
 Current as of July 5, 2020, 11:25AM EST
 
 * This is just a copy of the original repo with my username in place of kosomonavtika's.  
+* Also, I didn't like the graphics so I replaced them too, but these are trivial.
 
 This isn't to steal credit, its to have control over the repo source.  
 If the source repo has 'bad stuff' added, I have a chance to look at it before it kills my machines.  :)

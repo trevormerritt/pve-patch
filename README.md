@@ -51,3 +51,6 @@ cp -f /usr/share/pve-manager/images/proxmox_logo.png~ \
 ```
 vagrant up
 ```
+
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
